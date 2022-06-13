@@ -4,5 +4,7 @@
 
 #### Instructions:
 - Clone this repository to your `$HOME` folder
+- Change the line bellow to the version that you would like to install:
+    - ```exec $SHELL & $HOME/ubuntu-setup/install_python.sh -v 3.9.7```
 - Run `setup.sh`
 - Enjoy!
